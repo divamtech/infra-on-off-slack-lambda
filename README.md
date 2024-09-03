@@ -1,6 +1,5 @@
 # infra-ON-OFF-slackCommand-lambda
-AWS services ON-OFF using slack
-commands for slack
+AWS services ON-OFF using slack commands
 ```
 /start-ec2 < instance name or instance ID > -- for starting ec2 instance.
 /stop-ec2 < instance name or isntance ID > -- for stoping ec2 instance.
